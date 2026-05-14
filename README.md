@@ -1,8 +1,7 @@
 # IEEE-754 Single-Precision Floating-Point Adder
 ### Low-Power Dual-Path Architecture vs. Baseline — RTL to Synthesis
 
-> **Course Project** | VLSI Design | Vellore Institute of Technology, Vellore  
-> **Authors:** Ashit Raj (23BVD0025), Avni Jain, Tanisha Gupta  
+> **Course Project** | VLSI Design | Vellore Institute of Technology, Vellore   
 > **Tool:** Cadence Genus Synthesis Solution 21.14 | **Technology:** GPDK 45nm
 
 ---
