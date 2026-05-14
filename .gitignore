@@ -1,0 +1,34 @@
+# Cadence Xcelium simulation artifacts
+xcelium.d/
+xcelium.shm/
+waves.shm/
+*.shm/
+xrun.log
+xrun.key
+xrun.history
+*.diag
+*.vcd
+
+# Cadence Genus synthesis artifacts
+genus.cmd*
+genus.log*
+fv/
+*.enc.dat
+*.db
+
+# Flex license logs
+flex*.log
+
+# Simulator environment history
+env.history.*
+
+# Compiled library artifacts
+worklib/
+*.pak
+*.ts
+*.lnx8664
+
+# Cadence internal
+.cadence/
+cds.lib
+hdl.var
